@@ -1,0 +1,19 @@
+html,body{
+  max-height:100%;
+  margin:0;
+  padding:0;
+  background-color: #6D4A8A;
+  overflow:hidden;
+}
+#dresspli1-2,#robepli1-2,
+#dresspli1,#robepli1{
+  display:none;
+}
+
+svg{
+  height:100%;
+  display:block;
+  position:absolute;
+  opacity:0;
+  margin:0 auto;
+}
